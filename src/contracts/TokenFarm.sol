@@ -12,5 +12,6 @@ contract TokenFarm {
           dappToken = _dappToken;
           daiToken = _daiToken;
 
+  
     }
 } 
